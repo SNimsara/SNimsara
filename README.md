@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:22c55e&height=180&section=header&animation=fadeIn"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 # Hi, I'm Nimsara 👋
 
@@ -62,19 +62,18 @@ A web-based agricultural resource management system designed to help farmers eas
 <p align="center">
 
 <a href="https://github.com/SNimsara">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-<a href="https://www.linkedin.com/in/nimsara-gunasekara/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="mailto:nimsaragunasekara123@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
 </p>
-
 
 ---
 
