@@ -77,20 +77,9 @@ A web-based agricultural resource management system designed to help farmers eas
 
 ---
 
----
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+amazing+%F0%9F%9A%80;Keep+learning+%7C+Keep+creating+%E2%9C%A8"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=22c55e&height=2&section=footer"/>
-
-<br/>
-
-⭐ Feel free to explore my repositories
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 </div>
-
 </div>
