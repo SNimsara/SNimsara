@@ -79,7 +79,7 @@ A web-based agricultural resource management system designed to help farmers eas
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:22c55e,100:111827&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,25:92FE9D,50:22C55E,75:9333EA,100:FF0080&height=120&section=footer&animation=twinkling"/>
 
 </div>
 </div>
