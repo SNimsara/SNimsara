@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:22c55e&height=180&section=header&animation=fadeIn"/>
 
 # Hi, I'm Nimsara 👋
 
