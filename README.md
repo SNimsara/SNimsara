@@ -77,6 +77,15 @@ A web-based agricultural resource management system designed to help farmers eas
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SNimsara/SNimsara/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,40:2563EB,70:22C55E,100:111827&height=120&section=footer&animation=twinkling"/>
