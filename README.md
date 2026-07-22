@@ -62,25 +62,35 @@ A web-based agricultural resource management system designed to help farmers eas
 <p align="center">
 
 <a href="https://github.com/SNimsara">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<a href="https://www.linkedin.com/in/nimsara-gunasekara/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<a href="mailto:nimsaragunasekara123@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
 </p>
 
 ---
 
+---
+
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+amazing+%F0%9F%9A%80;Keep+learning+%7C+Keep+creating+%E2%9C%A8"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:111827&height=100&section=footer"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=22c55e&height=2&section=footer"/>
+
+<br/>
+
+⭐ Feel free to explore my repositories
+
+</div>
 
 </div>
