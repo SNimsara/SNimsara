@@ -59,14 +59,18 @@ A web-based agricultural resource management system designed to help farmers eas
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://github.com/SNimsara">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/nimsara-gunasekara/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="mailto:nimsaragunasekara123@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
 </p>
